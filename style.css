@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  background-color: rgb(32, 177, 129);
+  color: rgb(185, 16, 106);
+  line-height: 100px;
+}
+.para {
+  text-align: center;
+  background-color: rgb(227, 39, 227);
+  height: 100px;
+  color: rgb(70, 86, 70);
+  font-size: 25px;
+}
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
